@@ -1,0 +1,7 @@
+{
+  "name": "levain_d",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
